@@ -1,6 +1,8 @@
-# Security Policy
+# asefa2016/AmazeFileManager
 
-## Supported Versions
+## Security Policy
+
+### Supported Versions
 
 `v3.8.5` supports Android 4.0 and above.
 `v4.x.x` would only support Android 4.4 and above.
